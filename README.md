@@ -1,18 +1,20 @@
+
 # Hi, I'm Christopher Major 👋
 
 📍 **San Antonio, Texas** | ☁️ **Cloud & IT Infrastructure** | 🖥️ **Systems Administration** | 🔐 **IAM & Cybersecurity** | 🎖️ **U.S. Marine Corps Veteran**
 
 <p align="left">
-  <img height="20" alt="AWS" src="https://github.com/user-attachments/assets/b378d8dc-7027-44ae-a420-f7d7b40ce1c5" />
-  <img height="20" alt="Windows Server" src="https://github.com/user-attachments/assets/36a73136-2279-467a-906d-0fb149dd7cf9" />
-  <img height="20" alt="Active Directory" src="https://github.com/user-attachments/assets/40938058-ef8f-4ae5-832e-346a0085fd1e" />
-  <img height="20" alt="Microsoft 365" src="https://github.com/user-attachments/assets/f0358d9c-d71e-4200-b201-3a67effd07a1" />
-  <img height="20" alt="PowerShell" src="https://github.com/user-attachments/assets/b9f86406-65f3-4a42-a5fe-e8f175efb503" />
-  <img height="20" alt="Linux" src="https://github.com/user-attachments/assets/c463be9e-7ec0-4626-b459-a12847b22d2f" />
-  <img height="20" alt="VMware" src="https://github.com/user-attachments/assets/499651e6-ede6-4ab2-8b2c-2d73cbdb90c5" />
-  <img height="20" alt="Virtualization" src="https://github.com/user-attachments/assets/a2ed839a-d00a-4fc8-96fc-e7a4f791a0ce" />
-  <img height="20" alt="Python" src="https://github.com/user-attachments/assets/49843172-ea23-4936-b207-f7a043d28c09" />
-  <img height="20" alt="SQL" src="https://github.com/user-attachments/assets/4439c8b9-58fa-44c0-9009-3985a78903cc" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Virtualization-5C6F7B?style=flat" alt="Virtualization" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 > Building practical IT and cloud infrastructure experience through hands-on work with Windows Server, Active Directory, AWS, Azure, Linux, networking, virtualization, identity management, and cybersecurity.
