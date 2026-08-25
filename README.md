@@ -54,10 +54,10 @@ My approach to IT combines technical troubleshooting with years of experience wo
 * ☁️ **AWS Certified Cloud Practitioner**
 * 🔷 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 * 🛡️ **CompTIA Security+**
+* ☁️ **CompTIA Cloud+**
 
 ### 📚 Currently Expanding
 
-* ☁️ CompTIA Cloud+
 * 🔐 Microsoft Identity & Access Administration
 * 🌐 Cisco Networking
 
