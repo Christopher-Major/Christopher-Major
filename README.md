@@ -61,10 +61,10 @@ Both projects document the infrastructure lifecycle from **planning and implemen
 - 🛡️ **CompTIA Security+**
 - ☁️ **CompTIA Cloud+**
 - 🔐 **CompTIA Secure Cloud Professional (CSCP)**
+- 🔐 **Microsoft Identity & Access Administrator (SC-300)**
 
 ### 📚 Continuing Professional Development
 
-- 🔐 **Microsoft Identity & Access Administrator (SC-300)** — Studying
 - 🌐 **Cisco Certified Network Associate (CCNA)** — Studying
 - ⚙️ **Cloud Infrastructure Automation & DevOps** — Practical projects
 
