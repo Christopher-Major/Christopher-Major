@@ -58,10 +58,10 @@ Both projects document the infrastructure lifecycle from **planning and implemen
 - ☁️ **AWS Certified Solutions Architect – Associate**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🔷 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 🔐 **Microsoft Identity & Access Administrator (SC-300)**
 - 🛡️ **CompTIA Security+**
 - ☁️ **CompTIA Cloud+**
 - 🔐 **CompTIA Secure Cloud Professional (CSCP)**
-- 🔐 **Microsoft Identity & Access Administrator (SC-300)**
 
 ### 📚 Continuing Professional Development
 
